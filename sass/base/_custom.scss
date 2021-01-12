@@ -1,0 +1,39 @@
+
+body {
+   font-family: $fontBody;
+   font-weight: 400;
+   margin: 0;
+   overflow-x: hidden;
+}
+
+ul {
+   margin: 0;
+   padding: 0;
+   list-style: none;
+}
+
+a {
+   text-decoration: none;
+}
+
+img {
+   display: block;
+   width: 100%;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+   margin-top: 0;
+   margin-bottom: 0;
+   font-weight: 400;
+}
+
+.container {
+   max-width: 1170px;
+   width: 92vw;
+   margin-right: auto;
+   margin-left: auto;
+}
